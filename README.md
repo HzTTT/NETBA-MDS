@@ -57,4 +57,4 @@
 
 ## 系统功能结构图
 
-![/REMEAD_PGN/方法.png](https://github.com/HzTTT/NETBA-MDS/blob/main/README_PGN/%E6%95%B0%E6%8D%AE.png)
+![/REMEAD_PGN/方法.png](https://github.com/HzTTT/NETBA-MDS/blob/main/README_PGN/%E6%96%B9%E6%B3%95.png)
