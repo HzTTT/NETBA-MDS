@@ -53,8 +53,8 @@
 
 #### 3. 本系统的数据结构如下图
 
-![数据](/README_PGN/数据.png)
+![数据]([/README_PGN/数据.png](https://github.com/HzTTT/NETBA-MDS/blob/main/README_PGN/%E6%95%B0%E6%8D%AE.png))
 
 ## 系统功能结构图
 
-![方法](/REMEAD_PGN/方法.png)
+![方法]([/REMEAD_PGN/方法.png](https://github.com/HzTTT/NETBA-MDS/blob/main/README_PGN/%E6%95%B0%E6%8D%AE.png))
