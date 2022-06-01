@@ -51,8 +51,8 @@
 
 #### 2. 本系统的源文件均为UTF-8编码
 
-#### 3. 本系统的数据结构如下图![截屏2022-06-01 22.46.52](/Users/chh/Desktop/README/截屏2022-06-01 22.46.52.png)
+#### 3. 本系统的数据结构如下图![数据](/README_PGN/数据.png)
 
 ## 系统功能结构图
 
-![截屏2022-06-01 23.15.13](/Users/chh/Library/Application Support/typora-user-images/截屏2022-06-01 23.15.13.png)
+![方法](/REMEAD_PGN/方法.png)
